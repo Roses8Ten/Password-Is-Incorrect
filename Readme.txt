@@ -1,1 +1,1 @@
-This is a simple test.
+A game made by with Rojo and published to GitHub. The game primarily consist of you just being a smarty pants about password being incorrect.
